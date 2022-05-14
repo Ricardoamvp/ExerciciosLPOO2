@@ -1,5 +1,6 @@
 package Ex1;
 
+//Classe Abstrata
 public abstract class Personagem {
 
     protected String nome;
@@ -30,13 +31,14 @@ public abstract class Personagem {
         } else {
             distancia -= 1;
             personagem.distancia -= 1;
+            System.out.println(nome + " deu uma passo a frente.");
         }
 
     }
 
     public void afastar(Personagem personagem) {
         if(!vivo){
-            System.out.println("Você está morto");
+            System.out.println(nome + " está morto");
             return;
         }
 
@@ -45,6 +47,7 @@ public abstract class Personagem {
         } else {
             distancia += 1;
             personagem.distancia += 1;
+            System.out.println(nome + "deu um passo para trás.");
         }
 
     }

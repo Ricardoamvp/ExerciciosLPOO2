@@ -1,0 +1,1 @@
+Crie uma classe abstrata chamada MAMÍFEROS para criar diferentes animaismamíferos. Crie 4 animais diferentes. Todos tem em comum o método abstrato emiteSom().Implemente e teste todas as classes no arquivo Testa Mamífero.

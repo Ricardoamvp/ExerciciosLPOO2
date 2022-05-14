@@ -1,0 +1,1 @@
+Utilizando os conceitos de Polimorfismo e Classes abstratas vistos em aula, crie e codifique o seu próprio programa. Indique através de comentários no seu próprio código onde está sendo utilizado o polimorfismo e onde está sendo utilizado o conceito de classes abstratas. Se for detectado plágio da internet e / ou dos colegas o exercício será anulado.
